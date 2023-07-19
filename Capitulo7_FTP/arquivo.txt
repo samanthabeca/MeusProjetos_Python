@@ -1,0 +1,1031 @@
+qtd   scp ip          hostname
+----- --------------- -------------------------------------------------------
+18506 200.255.15.33                                      ns1.gigalink.com.br.
+15959 200.186.31.98                                        mail.bifgv.com.br.
+ 5777 200.211.47.129                             ns1.objetivosorocaba.g12.br.
+ 5004 200.211.47.130                             ns2.objetivosorocaba.g12.br.
+ 3852 200.61.185.194                       customer185-194.iplannetworks.net.
+ 3767 200.205.248.144            200-205-248-144.customer.tdatabrasil.net.br.
+ 2923 200.165.79.169                                                         
+ 2882 200.239.56.1                                       srv1-bsb.GNS.com.br.
+ 2593 200.17.209.129                                          fisica.ufpr.br.
+ 1957 200.184.58.8                                           dns1.eas.com.br.
+ 1738 200.228.64.253                                                         
+ 1663 216.169.160.2                                      ns1.ceinetworks.com.
+ 1460 200.195.150.117                                    maxi-arquivo.com.br.
+ 1244 217.22.96.69                                                           
+ 1054 200.241.3.2                                   srv00.linhares.es.gov.br.
+ 1049 200.206.99.130              200-206-99-130.customer.tdatabrasil.net.br.
+  867 200.49.155.5                                       dns1.wavenet.com.ar.
+  679 200.182.181.185                   185.128-191.181.182.200.in-addr.arpa.
+  622 200.211.49.2                                                           
+  489 200.205.216.65                  200-205-216-65.objetivosaoroque.com.br.
+  486 200.195.1.250                                   gateway.docatel.com.br.
+  441 216.171.167.15                                                         
+  441 216.171.167.12                                             ns2.oco.net.
+  441 200.205.218.33              200-205-218-33.customer.tdatabrasil.net.br.
+  440 200.242.254.189                                     a.ns.ssp.pa.gov.br.
+  438 200.239.56.2                                       srv2-bsb.GNS.com.br.
+  436 200.213.46.32                                         ns.sisnet.inf.br.
+  416 65.166.216.10                                                          
+  383 200.213.47.42                                ip47042.poa.virtua.com.br.
+  358 216.169.160.23                                     ns2.ceinetworks.com.
+  315 200.215.28.4            200-215-28-4.fnsce303.ipd.brasiltelecom.net.br.
+  270 150.164.3.8                                donabenta.latin.dcc.ufmg.br.
+  266 200.206.193.207                         200-206-193-207.picture.com.br.
+  259 200.246.150.253                                 border01.plugon.com.br.
+  256 68.22.82.10                                              dns1.spii.net.
+  239 200.198.188.67                                  ns2.datacenter1.com.br.
+  236 200.157.64.131                        200-157-64-131.intelignet.com.br.
+  222 200.165.24.150                      200165024150.user.veloxzone.com.br.
+  212 200.168.74.77                              200-168-74-77.dglnet.com.br.
+  210 200.185.105.89                             free-89.c8b969.deere.com.br.
+  194 216.24.175.2                                       dns1.broadriver.com.
+  189 200.204.0.10                                   resolver1.telesp.net.br.
+  188 200.168.0.39                           200-168-0-39.speedyterra.com.br.
+  184 200.202.249.115                                unimed.artefinal.com.br.
+  182 200.204.0.138                                  resolver2.telesp.net.br.
+  181 201.19.140.11                                                          
+  175 207.212.243.16                                                         
+  174 205.150.176.17                                     ns3.roundheaven.com.
+  162 200.17.215.64                                     bohr.quimica.ufpr.br.
+  157 200.157.64.132                        200-157-64-132.intelignet.com.br.
+  143 200.103.154.141       200-103-154-141.ctame7015.t.brasiltelecom.net.br.
+  143 200.148.224.41              200-148-224-41.customer.tdatabrasil.net.br.
+  138 200.148.204.137            200-148-204-137.customer.tdatabrasil.net.br.
+  137 65.166.216.11                                    DNS2.norwoodlight.com.
+  127 200.212.155.131                                  sodio.recordsp.com.br.
+  122 216.24.175.3                                       dns2.broadriver.com.
+  120 217.194.48.2                                           ns1.databaar.ch.
+  115 201.8.162.124                       201008162124.user.veloxzone.com.br.
+  109 217.194.48.34                                          ns2.databaar.ch.
+  105 200.164.227.105                                                        
+  104 67.18.229.82                                         ns1.dynaserve.com.
+  102 200.180.193.163                                                        
+   99 195.57.70.195                                                          
+   98 200.163.239.2                                       servepb.wdn.psi.br.
+   92 200.183.18.131                                                         
+   89 83.220.200.41                                      wilma.cablesurf.com.
+   88 200.168.79.110                       200-168-79-110.speedyterra.com.br.
+   88 64.68.165.240                                                          
+   81 200.158.10.135                        200-158-10-135.dsl.telesp.net.br.
+   78 207.18.92.100                                             mgb.ccia.com.
+   76 200.204.175.32                       200-204-175-32.speedyterra.com.br.
+   73 200.138.236.254       200-138-236-254.jvece7006.e.brasiltelecom.net.br.
+   73 200.157.80.152                                porsche.kryptonet.com.br.
+   70 200.212.63.24                                  toquetoque.catho.com.br.
+   67 83.220.200.40                                       fred.cablesurf.com.
+   66 201.11.69.42        201-011-069-042.jvece7002.dsl.brasiltelecom.net.br.
+   64 200.164.227.106                                                        
+   62 200.161.73.13                          200-161-73-13.dsl.telesp.net.br.
+   61 204.126.173.36                                   amps.ROCKFORDCORP.COM.
+   55 200.221.11.107                                                         
+   51 203.37.89.161                                    host89-161.aph.gov.au.
+   50 68.22.84.10                                              dns2.spii.net.
+   45 201.19.89.158                                                          
+   44 200.165.4.19                        200165004019.user.veloxzone.com.br.
+   43 200.207.158.49                       200-207-158-49.speedyterra.com.br.
+   43 200.180.41.239      200-180-041-239.rslce203.dial.brasiltelecom.net.br.
+   43 200.181.14.4                         200.181.14.4.brasiltelecom.net.br.
+   42 200.165.44.174                      200165044174.user.veloxzone.com.br.
+   41 201.19.154.28                                                          
+   41 69.26.172.2                                           unknown.xeex.net.
+   40 200.215.102.204       200-215-102-204.jvece7005.e.brasiltelecom.net.br.
+   39 200.61.134.246                                    smtp.cableway.com.ar.
+   39 200.211.46.10                                             li.facens.br.
+   38 208.39.143.101                                   ns3.recoverypoint.net.
+   38 200.195.60.41                                                          
+   37 213.172.55.226                                     orion1.iberdrola.es.
+   36 200.146.141.36                             escorpiao01.easyband.com.br.
+   36 201.9.187.45                        201009187045.user.veloxzone.com.br.
+   35 200.147.255.108                                                        
+   34 200.222.216.99                      200222216099.user.veloxzone.com.br.
+   33 201.10.132.3                              cache03.brasiltelecom.net.br.
+   30 201.19.118.35                                                          
+   30 200.19.186.18                                                          
+   28 200.205.163.50              200-205-163-50.customer.tdatabrasil.net.br.
+   28 200.199.252.68                                  ns.telebrasilia.net.br.
+   28 201.3.234.113         201-003-234-113.bnut37008.e.brasiltelecom.net.br.
+   27 201.10.132.2                              cache01.brasiltelecom.net.br.
+   26 201.10.4.2                                                             
+   25 201.8.173.34                        201008173034.user.veloxzone.com.br.
+   24 217.64.127.130                                         ns2.points2.com.
+   24 201.10.124.2                              cache02.brasiltelecom.net.br.
+   23 200.193.136.105                                                        
+   23 200.96.255.202                                ns4.brasiltelecom.net.br.
+   23 200.221.11.100                                       brahms.uol.com.br.
+   23 200.199.252.72                                 ns2.telebrasilia.net.br.
+   23 200.165.4.142                       200165004142.user.veloxzone.com.br.
+   23 195.49.141.19                                                          
+   23 201.9.239.72                        201009239072.user.veloxzone.com.br.
+   23 200.215.1.44                                     arataca.telesc.net.br.
+   22 200.154.55.16                                      campos.terra.com.br.
+   21 200.211.47.180                           proxy.objetivosorocaba.g12.br.
+   21 200.149.55.142                                        ns1.velox.net.br.
+   21 203.37.89.13                                      host89-13.aph.gov.au.
+   21 201.14.45.74                                                           
+   21 200.215.1.43                                      corais.telesc.net.br.
+   21 201.3.194.2           201-003-194-002.bnut37006.t.brasiltelecom.net.br.
+   20 200.193.193.234                                                        
+   20 201.14.45.109                                                          
+   19 201.8.137.112                       201008137112.user.veloxzone.com.br.
+   19 200.234.203.6                                                          
+   18 200.216.115.218                     200216115218.user.veloxzone.com.br.
+   18 200.206.163.115                          200-206-163-115.lepton.com.br.
+   18 200.246.46.134                                     ofelia.vivax.com.br.
+   18 200.140.232.9          200-140-232-009.ctame705.e.brasiltelecom.net.br.
+   18 201.8.112.22                        201008112022.user.veloxzone.com.br.
+   17 200.226.132.89                                          tofu.ig.com.br.
+   17 200.141.240.37                      200141240037.user.veloxzone.com.br.
+   17 194.192.82.204                                      ns2.estructure.net.
+   17 64.105.199.74                               mclnva23-pub-ns1.covad.net.
+   17 65.255.96.48                                            hobo.ecsis.net.
+   17 201.14.133.2                                           interone.com.br.
+   17 62.61.81.99                                          net99.okmetic.com.
+   16 200.223.0.184                                   ldap.telemar-ba.net.br.
+   16 200.228.9.3                                                            
+   15 200.165.132.155                                       ns6.velox.net.br.
+   15 200.154.55.17                                    sepetiba.terra.com.br.
+   15 200.176.2.10                                       canela.terra.com.br.
+   14 209.162.224.10                                ns1.worldwithoutwire.com.
+   14 200.96.255.194                                ns3.brasiltelecom.net.br.
+   14 200.246.46.132                                   cordelia.vivax.com.br.
+   14 200.232.1.46                     200-232-1-46.bbone.tdatabrasil.net.br.
+   14 200.171.6.36                           200-171-6-36.speedyterra.com.br.
+   14 192.67.63.35                                         demthu.saomai.org.
+   14 201.6.0.100                                         dns1.virtua.com.br.
+   13 62.140.197.253                                           ns.planit.com.
+   13 200.138.235.16      200-138-235-016.mface205.dial.brasiltelecom.net.br.
+   13 200.252.246.4                                                          
+   13 200.215.9.58                                                           
+   13 200.215.1.35                                      mozart.telesc.net.br.
+   12 200.206.163.182                      200-206-163-182.dsl.telesp.net.br.
+   12 200.203.207.71                                  jubarte.telepar.com.br.
+   12 200.154.55.18                                    botucatu.terra.com.br.
+   12 201.10.124.3                              cache04.brasiltelecom.net.br.
+   11 200.187.175.101                                                        
+   11 200.226.132.88                                         misso.ig.com.br.
+   11 200.207.45.150                        200-207-45-150.dsl.telesp.net.br.
+   11 200.202.193.76                                      ns2.telemar.net.br.
+   11 200.108.142.10                                    platon.itacom.com.py.
+   11 200.32.96.140                                   serverd.elsitio.com.ar.
+   11 200.185.14.18                                      ns1.eurosoft.com.br.
+   11 200.96.27.3                                                            
+   11 200.208.9.2                                          ns1.oghost.com.br.
+   10 63.212.171.163                     163.128-255.171.212.63.in-addr.arpa.
+   10 213.86.237.244                                                         
+   10 200.219.150.4                                         panda.sul.com.br.
+   10 200.175.5.139                                     resolver1.gvt.net.br.
+   10 200.102.52.37         200-102-052-037.bnut37002.e.brasiltelecom.net.br.
+   10 200.146.61.2                                            ns.ecentry.com.
+   10 195.60.31.20                                      power20.power.net.uk.
+    9 200.138.226.215     200-138-226-215.mface204.dial.brasiltelecom.net.br.
+    9 200.232.12.130                               200-232-12-130.hsm.com.br.
+    9 200.195.172.52                     200-195-172-52-rasip-onda.copel.net.
+    9 200.164.199.41                      200164199041.user.veloxzone.com.br.
+    9 200.163.61.226        200-163-061-226.cbabm7004.e.brasiltelecom.net.br.
+    9 200.151.135.88                                  SHASTA135088.ig.com.br.
+    9 200.195.192.7                                      waikiki.onda.com.br.
+    9 209.48.2.128                                     SECURE.NAME-SPACE.COM.
+    9 12.99.15.124                        124.mupc.snfc.snfccafj.dsl.att.net.
+    9 66.152.12.7                                            NS02.ntinet.com.
+    9 201.6.0.102                                         dns2.virtua.com.br.
+    8 200.255.125.214                              wks14.rjo.embratel.net.br.
+    8 200.163.171.178                                                        
+    8 213.168.226.11                                                         
+    8 200.77.230.100                                                         
+    8 200.243.80.130                                                         
+    8 200.217.40.122                                                         
+    8 200.149.55.140                                        ns2.velox.net.br.
+    8 65.255.99.252                                           frd1.ecsis.net.
+    8 65.255.98.252                                          obrd1.ecsis.net.
+    8 64.209.120.70                                   athena.simons-rock.edu.
+    8 201.9.134.189                       201009134189.user.veloxzone.com.br.
+    8 201.11.67.55           201-011-067-055.BNUCE701.e.brasiltelecom.net.br.
+    7 200.225.159.125                                        arroz.ig.com.br.
+    7 200.202.193.75                                      ns1.telemar.net.br.
+    7 200.180.69.159      200-180-069-159.jvece7002.dsl.brasiltelecom.net.br.
+    7 200.164.23.231                      200164023231.user.veloxzone.com.br.
+    7 200.161.30.118                       200-161-30-118.speedyterra.com.br.
+    7 216.22.100.57                                  host100057.despegar.net.
+    7 209.247.1.175                                   ics1.Tampa1.Level3.net.
+    7 201.9.241.145                       201009241145.user.veloxzone.com.br.
+    7 192.94.73.20                                          ol.freeshell.org.
+    6 200.249.204.129                                  recife.ipadnet.com.br.
+    6 200.165.132.147                                       ns3.velox.net.br.
+    6 216.133.84.131                                                         
+    6 209.139.197.11                                          ns2.mcyork.com.
+    6 209.139.197.10                        10.1-62.197.139.209.in-addr.arpa.
+    6 200.155.11.196                        bloco-03.gmail.comdominio.com.br.
+    6 200.101.195.12        200-101-195-012.bnut37004.e.brasiltelecom.net.br.
+    6 66.118.176.40                                      unknown.sagonet.net.
+    6 212.17.192.49                                          ns1.albacom.net.
+    6 201.9.238.199                       201009238199.user.veloxzone.com.br.
+    6 200.164.42.28                                                          
+    6 200.162.192.5                           200-162-192-5.idc.ajato.com.br.
+    6 63.172.195.4                                              r2.artoo.net.
+    6 200.97.63.43                                                           
+    6 84.22.100.9                           a84-22-100-9.dns.public-root.com.
+    6 64.23.55.89                                               myessays.com.
+    5 200.252.236.124                                                        
+    5 200.247.204.135                                                        
+    5 200.247.177.130                                                        
+    5 200.165.132.154                                       ns5.velox.net.br.
+    5 148.233.199.209           adsl-dist-dimex-5556970825.uninet-ide.com.mx.
+    5 200.219.232.85                                       ns1.insite.com.br.
+    5 200.184.85.252                                      server4.mpc.com.br.
+    5 200.179.192.15                                  dns2.rjo.virtua.com.br.
+    5 200.170.96.174                             200-170-96-174.inova.com.br.
+    5 200.146.78.111                        200.146.78.111.tbprof.gvt.net.br.
+    5 140.115.11.128                                         cdns.ncu.edu.tw.
+    5 201.2.224.155       201-002-224-155.bnut37006.dsl.brasiltelecom.net.br.
+    5 200.241.145.2                                                          
+    5 200.241.128.1                                   int-01.wcompany.com.br.
+    5 200.204.76.31                         200-204-76-31.speedyterra.com.br.
+    5 200.168.16.68                         200-168-16-68.speedyterra.com.br.
+    5 195.92.99.99                                             opal.spod.org.
+    5 195.6.82.130                                          net001.sollac.fr.
+    5 142.78.36.37                                bdc-tc9-temp.lac-bac.gc.ca.
+    4 213.239.240.162                 213-239-240-162.clients.your-server.de.
+    4 213.228.192.150                                                        
+    4 200.247.123.140                       140.123.247.200.intercorp.com.br.
+    4 200.213.249.134                                     dns1tur.cvc.com.br.
+    4 200.178.186.130                                                        
+    4 200.172.167.131                                                        
+    4 66.219.105.189                                        nameservices.net.
+    4 66.151.147.203                                                         
+    4 216.240.97.101                                            bebe.dmv.com.
+    4 216.133.221.11                                                         
+    4 207.218.192.95                                       nsx-38-11.ev1.net.
+    4 200.225.63.223                                     ns1.centroin.com.br.
+    4 200.225.63.221                                     ns3.centroin.com.br.
+    4 200.225.197.34               200-225-197-034-static.ctbctelecom.com.br.
+    4 200.215.102.43        200-215-102-043.jvece7003.e.brasiltelecom.net.br.
+    4 200.201.164.20                                      polar.caixa.gov.br.
+    4 200.199.144.53                      53.144.199.200.docasdoporto.com.br.
+    4 200.193.46.210                                                         
+    4 200.152.202.19                    rss.clientes.spo.esnx.net.rss.com.br.
+    4 57.67.193.187                                                          
+    4 201.8.138.110                       201008138110.user.veloxzone.com.br.
+    4 201.2.198.142         201-002-198-142.fnsce7005.e.brasiltelecom.net.br.
+    4 200.248.176.5                                           ra.spps.com.br.
+    4 200.198.176.2                                   ns1.datacenter1.com.br.
+    4 200.196.66.30                                      marte.impsat.com.br.
+    4 200.196.230.2                                                          
+    4 200.194.240.2                                        cwbtwo.bsi.com.br.
+    4 200.185.44.29                                        senate.ns1.com.br.
+    4 200.177.96.10                                  ns.terraempresas.com.br.
+    4 200.160.7.164                                      luminol.ctir.gov.br.
+    4 195.49.141.22                                                          
+    4 195.49.141.21                                                          
+    4 70.22.56.166                   pool-70-22-56-166.balt.east.verizon.net.
+    4 66.223.63.11                              corp-66-223-63.interland.net.
+    4 213.56.31.29                                 relayopen1.clb.oleane.net.
+    4 201.2.212.23                               baltasar.creativenet.com.br.
+    4 200.222.0.34                                        ns3.telemar.net.br.
+    4 200.176.2.13                                       parati.terra.com.br.
+    4 200.176.2.12                                       iguape.terra.com.br.
+    4 200.175.8.34                                         users2.pop.com.br.
+    4 193.2.132.70                                         mila.ljudmila.org.
+    4 66.79.160.3                                            ns3.managed.net.
+    4 151.9.138.1                                        serapeo.cybernet.it.
+    4 81.25.96.3                                        gopala.mediarama.com.
+    4 81.1.65.10                                    sc-dns1.homechoice.co.uk.
+    4 170.66.3.2                                         dns2.bbrasil.com.br.
+    3 200.255.125.211                              wks11.rjo.embratel.net.br.
+    3 200.255.122.207                               gatedns1.embratel.com.br.
+    3 200.213.197.222                                   hm112.locaweb.com.br.
+    3 200.189.169.201                      s200-189-169-201.ipb.diveo.net.br.
+    3 200.165.132.148                                       ns4.velox.net.br.
+    3 200.147.255.101                                   resolver2.uol.com.br.
+    3 193.226.228.177                             adsl-177.mirage.euroweb.hu.
+    3 80.146.246.107                                                         
+    3 66.250.130.226                                                         
+    3 64.236.233.180                                h-64-236-233-180.twi.com.
+    3 24.106.126.157                                 evilsmoke.furryclan.net.
+    3 201.11.192.119                                 saojose.aisj-poa.org.br.
+    3 200.231.172.30                                    sp-senac.sp.senac.br.
+    3 200.225.197.37               200-225-197-037-static.ctbctelecom.com.br.
+    3 200.203.183.34                                     srv1-cta.bs2.com.br.
+    3 200.193.120.68      200-193-120-068.mface200.dial.brasiltelecom.net.br.
+    3 200.155.11.194                        bloco-01.gmail.comdominio.com.br.
+    3 200.142.251.16                                       tessek.ns1.com.br.
+    3 200.138.215.81        200-138-215-081.fnsce7002.e.brasiltelecom.net.br.
+    3 66.63.172.143                                        com.143.mx3oc.com.
+    3 66.111.111.27                                          sr.neospire.net.
+    3 24.248.81.244                         wsip-24-248-81-244.ph.ph.cox.net.
+    3 213.1.121.116                                                          
+    3 213.1.121.114                                                          
+    3 209.247.1.176                                   ics2.Tampa1.Level3.net.
+    3 209.216.160.9                                   classifieds2.gorge.net.
+    3 202.89.131.11                                                          
+    3 201.9.240.114                       201009240114.user.veloxzone.com.br.
+    3 200.232.58.66                                     ns02.bradesco.com.br.
+    3 200.215.189.8                          h200-215-189-8.ipb.diveo.net.br.
+    3 200.212.63.29                                    joaquina.catho.com.br.
+    3 200.201.133.2                                         ns1.ifxwh.com.br.
+    3 200.175.5.133                                          dns1.gvt.net.br.
+    3 200.17.143.31                                              dns.ufrn.br.
+    3 200.169.96.11                                  easydns1.dualtec.com.br.
+    3 200.167.131.1                                                          
+    3 200.164.42.26                               ip042-26.aracajunet.com.br.
+    3 200.152.209.2                                         nossosite.com.br.
+    3 84.22.100.10                         a84-22-100-10.dns.public-root.com.
+    3 69.8.191.253                                                           
+    3 206.107.24.4                                                           
+    3 202.65.19.11                                       ns1.verisign.com.au.
+    3 195.39.4.164                                             proxy.lion.cz.
+    3 64.65.128.6                                       ns0.sea.eschelon.com.
+    3 208.3.248.2                                            one.twmaine.com.
+    3 143.54.11.7                                       caracol.inf.ufrgs.br.
+    3 67.19.0.12                                      ns3-b.servermatrix.com.
+    3 64.81.79.2                                      dns.sfo1.speakeasy.net.
+    3 63.70.80.6                                             cache2.rinc.net.
+    2 209.114.222.224                                             brevard.us.
+    2 205.209.188.110                                                        
+    2 205.209.139.100                                    srv53.128secure.com.
+    2 200.255.253.241                              wks01.rjo.embratel.net.br.
+    2 200.249.135.131                                                        
+    2 200.225.217.194                  225.217-194-static.ctbctelecom.com.br.
+    2 200.225.159.123                                       feijao.ig.com.br.
+    2 200.219.224.212                  sp_200_219_224_212.datacenter1.com.br.
+    2 200.203.189.130                               gw.curitibaonline.com.br.
+    2 200.196.226.254                                     dns2.dglnet.com.br.
+    2 200.168.108.157                             200-168-108-157.scs.com.br.
+    2 200.167.155.135                                                        
+    2 200.167.139.131                                                        
+    2 200.158.165.168                      200-158-165-168.dsl.telesp.net.br.
+    2 200.158.110.164                     200-158-110-164.speedyterra.com.br.
+    2 200.148.207.102                       200-148-207-102.biorastro.com.br.
+    2 200.138.224.242        200-138-224-242.fnsce701.e.brasiltelecom.net.br.
+    2 81.255.110.117                                          avgw.grdsa.com.
+    2 80.146.246.102                                                         
+    2 66.250.107.226                                   broadway.vnetworx.net.
+    2 66.118.128.119                                  dns-gw.tpa.sagonet.net.
+    2 65.173.218.103                                          mail1.giac.net.
+    2 65.170.178.130                                                  reached
+    2 221.149.161.15                                         ns.krcert.or.kr.
+    2 216.185.111.24                                  ns1-g.servermatrix.com.
+    2 216.185.111.13                                  ns1-c.servermatrix.com.
+    2 216.174.194.25                                           juri.atgi.net.
+    2 216.157.55.253                                             dsmeter.com.
+    2 216.109.124.32                                  dns1.ops.dcn.yahoo.com.
+    2 213.255.17.141                        dd213-255-17-141.bo1.albacom.net.
+    2 213.191.128.16                                         mxout2.iskon.hr.
+    2 212.74.114.129                            mk-cache-3.ns.uk.tiscali.com.
+    2 212.203.14.102                                     allard.eatserver.nl.
+    2 212.185.161.75                                             mail.tpz.de.
+    2 209.67.219.226                                         jenga.toybox.ca.
+    2 209.179.23.211                         cns09.slb.dns.pas.earthlink.net.
+    2 209.179.23.210                         cns08.slb.dns.pas.earthlink.net.
+    2 207.218.192.73                                        nsx-38-6.ev1.net.
+    2 205.209.169.60                                                         
+    2 200.253.251.32                                jangada.fortalnet.com.br.
+    2 200.245.255.33                               wks01.spo.embratel.net.br.
+    2 200.245.207.57                                     Maq01.serasa.com.br.
+    2 200.244.240.46                                                         
+    2 200.241.100.11                                       tiger.digi.com.br.
+    2 200.234.225.70                                   dnscache1.iron.com.br.
+    2 200.225.157.17                                        fritas.ig.com.br.
+    2 200.210.28.200                                                         
+    2 200.210.249.15                                mailscaner.gwmnet.com.br.
+    2 200.203.54.112        200-203-054-112.nhoce7001.e.brasiltelecom.net.br.
+    2 200.203.183.56                                      netuno.plex.com.br.
+    2 200.201.133.69                                       bianco.ifx.com.br.
+    2 200.193.46.242                                                         
+    2 200.192.23.178                                      ns02.telmex.net.br.
+    2 200.185.109.61                                    hidrogenio.k8.com.br.
+    2 200.178.146.33                        33.0-63.146.178.200.in-addr.arpa.
+    2 200.159.43.114              200-159-43-114.customer.tdatabrasil.net.br.
+    2 200.156.33.150                                                         
+    2 200.150.13.244                                  ns2.wayinternet.com.br.
+    2 200.144.121.36                                        b.ns.cais.rnp.br.
+    2 200.139.97.189                                 smtp189.difundir.com.br.
+    2 200.138.236.57        200-138-236-057.jvece7006.e.brasiltelecom.net.br.
+    2 200.138.208.61        200-138-208-061.bnut37005.e.brasiltelecom.net.br.
+    2 200.138.202.89        200-138-202-089.bnut37001.e.brasiltelecom.net.br.
+    2 200.101.154.34                                   foznet2.foznet.com.br.
+    2 168.95.192.170                                                         
+    2 150.161.23.253                                                  reached
+    2 138.163.128.43                              gate4-hawaii.nmci.navy.mil.
+    2 138.163.128.41                              gate2-hawaii.nmci.navy.mil.
+    2 131.193.178.51                                       star.math.uic.edu.
+    2 82.165.34.249                         strohhalm-r8-a.bs.ka.schlund.net.
+    2 70.84.141.196                      196.70-84-141.reverse.theplanet.com.
+    2 69.240.183.84                   pcp09698589pcs.limstn01.de.comcast.net.
+    2 68.142.200.18                                  r2-23.dns.mud.yahoo.com.
+    2 68.120.246.14                adsl-68-120-246-14.dsl.scrm01.pacbell.net.
+    2 67.19.214.194                      194.67-19-214.reverse.theplanet.com.
+    2 66.34.224.254                                                          
+    2 65.75.141.230                                                          
+    2 65.54.237.135                                                          
+    2 64.29.130.110                                      dns1.keyconnect.com.
+    2 63.160.84.125                                           ns1.weberd.com.
+    2 62.220.134.13                                                          
+    2 62.204.102.78                                 078.catv102.gre01.lan.ch.
+    2 38.112.17.138                               Cogent.demarc.cogentco.com.
+    2 216.82.86.138                                        ns1.orolix.com.br.
+    2 216.207.44.36                                                          
+    2 216.104.160.2                                          nsi1.tierra.net.
+    2 213.1.121.119                                                          
+    2 209.244.4.170                           pop3-1.washington1.access3.com.
+    2 209.244.4.160                              ics1.Washington2.Level3.net.
+    2 209.136.26.12                                             dns2.htg.net.
+    2 208.36.123.20                           spf-dnscache3.us4.outblaze.com.
+    2 207.228.228.5                                      no2.dca1.superb.net.
+    2 207.164.89.73                         73.64/28.89.164.207.in-addr.arpa.
+    2 206.190.33.60                                 dns113.ops.re2.yahoo.com.
+    2 206.190.33.51                                 dns108.ops.re2.yahoo.com.
+    2 205.150.42.35                                         garland.rc.gc.ca.
+    2 204.60.203.77                                            mta5.snet.net.
+    2 202.182.47.68                                                     bne5.
+    2 202.18.170.10                                            cl2.nit.ac.jp.
+    2 201.9.188.177                       201009188177.user.veloxzone.com.br.
+    2 201.2.244.196                                                          
+    2 201.10.17.170                                                          
+    2 200.96.65.150                                     galois.wahtec.com.br.
+    2 200.223.176.1                                 magali.sergipenet.com.br.
+    2 200.202.18.34                                   proxy.intelbras.com.br.
+    2 200.199.96.26                                    mailer.neoline.com.br.
+    2 200.193.20.85         200-193-020-085.fnsce7005.e.brasiltelecom.net.br.
+    2 200.183.189.2                                                          
+    2 200.180.41.63       200-180-041-063.rslce203.dial.brasiltelecom.net.br.
+    2 200.175.61.92                          200.175.61.92.tbprof.gvt.net.br.
+    2 200.166.82.51                                                          
+    2 200.164.232.1                                 netralink.hotlink.com.br.
+    2 200.163.19.46         200-163-019-046.bsace7013.e.brasiltelecom.net.br.
+    2 200.162.64.30                                         capri2.wb.com.br.
+    2 200.156.69.21                                                          
+    2 200.143.84.57                                   router.lyoncsal.com.br.
+    2 199.166.27.15                                             rev2.mbz.org.
+    2 195.74.113.58                                  ths-dns-cache1.enta.net.
+    2 195.55.230.10                                                          
+    2 194.65.79.233                                      a.ns.ptmail.sapo.pt.
+    2 146.164.53.65                                         roma.coe.ufrj.br.
+    2 128.95.112.10                                 dnsi2.cac.washington.edu.
+    2 81.25.32.125                                                           
+    2 80.160.88.16                                        ns1.estructure.net.
+    2 70.84.54.138                        138.70-84-54.reverse.theplanet.com.
+    2 69.56.222.16                                    ns2-c.servermatrix.com.
+    2 68.87.66.204                         denns08.cmc.co.denver.comcast.net.
+    2 68.165.1.187                         h-68-165-1-187.snvacaid.covad.net.
+    2 66.90.64.202                                  server3.riverhosting.net.
+    2 66.218.71.58                                       dns11.scd.yahoo.com.
+    2 66.218.71.48                                        dns1.scd.yahoo.com.
+    2 66.196.90.32                                  lj1016.inktomisearch.com.
+    2 64.34.161.70                                         zux.sukalubov.com.
+    2 63.97.220.10                                        ns2.sequoianet.com.
+    2 63.231.199.4                                         smtp2.pcspeed.com.
+    2 24.30.200.18                                         vamx02.mgw.rr.com.
+    2 24.247.24.43                            proxy6baymi.bay.mi.charter.com.
+    2 216.55.128.7                                              ns3.abac.com.
+    2 216.21.64.15                                            ns.nettogo.net.
+    2 213.56.31.22                                     relay2.clb.oleane.net.
+    2 206.137.30.2                                        ns1.namemydots.com.
+    2 200.99.47.11                                                           
+    2 200.255.75.2                                                           
+    2 200.249.25.2                                          unicap.unicap.br.
+    2 200.241.97.1                                      ns2.interjato.com.br.
+    2 200.202.17.1                                    c8ca1101.matrix.com.br.
+    2 200.20.94.50                                      guanabara.rederio.br.
+    2 200.19.190.1                                              taiba.ufc.br.
+    2 200.176.2.15                                        dns-x.terra.com.br.
+    2 200.174.78.5                                  tucano.doctordata.com.br.
+    2 200.155.15.9                                        ns1.bighost.com.br.
+    2 192.51.44.35                                    fgwmail5.fujitsu.co.jp.
+    2 164.41.101.4                                                dns.unb.br.
+    2 156.26.33.12                                   juliet.engr.wichita.edu.
+    2 146.164.10.2                                              smtp.ufrj.br.
+    2 82.211.77.6                                      dinopsis.arachsys.net.
+    2 81.88.32.24                                            noc.komplex.net.
+    2 68.1.16.104                                         lakensec03.cox.net.
+    2 67.97.234.5                                                     reached
+    2 64.81.127.2                                     dns.dfw1.speakeasy.net.
+    2 63.96.4.130                           houdns1.universalcomputersys.com.
+    2 61.9.136.52                         CPE-61-9-136-52.vic.bigpond.net.au.
+    2 67.19.0.14                                      ns3-d.servermatrix.com.
+    1 217.197.152.134                                           iweb.iweb.cz.
+    1 216.219.253.119                                     bitty.valueweb.net.
+    1 216.219.253.118                                      itty.valueweb.net.
+    1 216.148.221.155                                                        
+    1 216.139.202.148                                          ns1.esnet.com.
+    1 213.239.249.189                                   dns1.nbg.linovate.de.
+    1 213.171.193.226                                                        
+    1 209.139.197.125               h209-139-197-125.gtcust.grouptelecom.net.
+    1 207.225.234.130                                          ms1.manus.com.
+    1 207.173.209.161                             ns1.technovationdesign.com.
+    1 207.152.136.132                            207-152-136-132.lan2wan.net.
+    1 206.130.153.250                                                        
+    1 205.209.171.170                                                        
+    1 205.188.158.130                               dtc-mblk002.edns.aol.com.
+    1 204.202.242.124                    b.cache.stngva01.us.nameservers.net.
+    1 204.130.255.195                                ns1-2.integraonline.com.
+    1 203.130.251.197                    197.subnet251.astinet.telkom.net.id.
+    1 200.254.247.102                                                        
+    1 200.252.232.194                                           ftp2.cnpq.br.
+    1 200.249.244.129                                                        
+    1 200.230.190.103                                sampa3.prodam.sp.gov.br.
+    1 200.230.147.129                                                        
+    1 200.223.243.127                                                        
+    1 200.219.226.100                                   mail.webforce.com.br.
+    1 200.210.219.172                                       roma.flash.tv.br.
+    1 200.210.219.171                                brigite-mii.flash.tv.br.
+    1 200.210.109.132                                   ns2.cntbrasil.com.br.
+    1 200.207.207.251                     200-207-207-251.speedyterra.com.br.
+    1 200.207.151.175                     200-207-151-175.speedyterra.com.br.
+    1 200.206.135.147                      200-206-135-147.dsl.telesp.net.br.
+    1 200.203.179.125                                                 reached
+    1 200.199.201.227                                                        
+    1 200.198.107.155                                                        
+    1 200.196.254.164                                       sp.linkbr.com.br.
+    1 200.193.123.210                                                        
+    1 200.181.255.222       200-181-255-222.fozit7002.e.brasiltelecom.net.br.
+    1 200.179.174.230                                dns.grupoelogica.com.br.
+    1 200.173.132.141                                     ns03.telmex.net.br.
+    1 200.173.132.140                                     ns01.telmex.net.br.
+    1 200.170.150.113              200-170-150-113-static.ctbctelecom.com.br.
+    1 200.170.150.100                                  mail.democrata.com.br.
+    1 200.170.144.233          200-170-144-233-xf-static.ctbcnetsuper.com.br.
+    1 200.167.140.130                              trinity.itautec.unicap.br.
+    1 200.164.232.249                                     ns2.hotlink.com.br.
+    1 200.163.138.226                                                        
+    1 200.159.160.102                                   ns2.netwizard.com.br.
+    1 200.153.247.185                      200-153-247-185.dsl.telesp.net.br.
+    1 200.152.208.194                                  cursoexecutivo.com.br.
+    1 200.152.193.226                        200.152.193.226.metrored.psi.br.
+    1 200.152.193.115                             200.152.193.115.tam.com.br.
+    1 200.148.249.250            200-148-249-250.customer.tdatabrasil.net.br.
+    1 200.140.247.100                              perninha.conectiva.com.br.
+    1 200.101.192.183       200-101-192-183.fnsce7004.e.brasiltelecom.net.br.
+    1 199.141.126.202                                            ns.usda.gov.
+    1 195.251.213.111                                             eos.uom.gr.
+    1 194.209.157.196                                                        
+    1 192.220.127.130                            ca1-sg00075.securesites.net.
+    1 192.220.127.111                            ca1-sg00002.securesites.net.
+    1 192.100.176.130                                                        
+    1 167.100.118.222                                      floyd.starkey.com.
+    1 143.107.161.161                                        mail.lsi.usp.br.
+    1 141.214.252.144                                      dns.med.umich.edu.
+    1 131.103.218.180                    a.cache.bcrtfl01.us.nameservers.net.
+    1 131.103.218.150                    b.cache.bcrtfl01.us.nameservers.net.
+    1 130.244.127.161                                          dns1.swip.net.
+    1 128.125.253.184                                         aludra.usc.edu.
+    1 68.191.247.254                                                  reached
+    1 67.139.134.205                                         o5.hostbaby.com.
+    1 67.107.109.102                            67.107.109.102.ptr.us.xo.net.
+    1 66.155.226.122                                                         
+    1 65.170.178.131                                                  reached
+    1 64.232.211.138                            138.211.232.64.transedge.com.
+    1 64.202.160.113                      ip-64-202-160-113.secureserver.net.
+    1 64.170.106.249              adsl-64-170-106-249.dsl.snfc21.pacbell.net.
+    1 64.119.114.201                 host64119114c9.biz.tor.fcibroadband.com.
+    1 63.119.175.103                                    ns1.readyhosting.com.
+    1 62.119.149.202                                     selui2.tetrapak.com.
+    1 62.119.149.201                                     selui1.tetrapak.com.
+    1 218.224.254.50                                         ns.kobira.co.jp.
+    1 218.101.48.224                    218-101-48-224.cable.paradise.net.nz.
+    1 217.33.121.101                                         dns2.engltd.net.
+    1 216.244.116.13                             mail.regionalhelpwanted.com.
+    1 216.154.195.45                                      blade4.cesmail.net.
+    1 216.130.161.33                                    godfather.webair.com.
+    1 213.84.172.236                                          heij.xs4all.nl.
+    1 213.254.205.17                          gorgonzola.europeanservers.net.
+    1 213.227.141.50                                   kermit.isd-holland.nl.
+    1 213.191.128.10                                          mxout.iskon.hr.
+    1 213.133.98.198                   213-133-98-198.clients.your-server.de.
+    1 212.30.217.145                                        mars-li.skyrr.is.
+    1 212.113.164.49                              a212-113-164-49.netcabo.pt.
+    1 211.72.210.250                                            twnic.net.tw.
+    1 211.115.194.61                                     picasso.epidc.co.kr.
+    1 209.31.232.193                      w193.z209031232.sjc-ca.dsl.cnc.net.
+    1 209.179.23.214                         cns12.slb.dns.pas.earthlink.net.
+    1 209.179.23.213                         cns11.slb.dns.pas.earthlink.net.
+    1 209.179.23.209                         cns07.slb.dns.pas.earthlink.net.
+    1 209.150.200.15                                    ns0.msp.eschelon.com.
+    1 209.139.197.12                                          ns3.mcyork.com.
+    1 208.160.156.30                                     panther.aimhigh.net.
+    1 207.234.129.67                                  dedicated.dharmony.biz.
+    1 207.218.192.96                                       nsx-39-12.ev1.net.
+    1 207.218.192.94                                       nsx-38-10.ev1.net.
+    1 207.218.192.93                                        nsx-38-9.ev1.net.
+    1 207.218.192.78                                        nsx-38-7.ev1.net.
+    1 207.218.192.76                                       nsx-39-10.ev1.net.
+    1 207.218.192.22                                        nsx-39-2.ev1.net.
+    1 207.194.28.230                                      bnbyps07.telus.net.
+    1 207.183.238.13                                 ns3.cpsoftwaregroup.com.
+    1 207.155.248.93                                     unicorn.cnchost.com.
+    1 207.155.248.50                                    intrepid.cnchost.com.
+    1 207.126.109.70                                                         
+    1 206.46.252.158                                    sv224pub.verizon.net.
+    1 205.209.188.90                                                         
+    1 205.209.179.80                                   noria.naturalhost.com.
+    1 205.209.158.45                                                         
+    1 205.158.62.112                          spf-dnscache2.us4.outblaze.com.
+    1 204.255.212.10                                           mail.bcpl.net.
+    1 204.212.36.144                                 ns.activemostwanted.com.
+    1 204.202.242.60                     a.cache.stngva01.us.nameservers.net.
+    1 204.127.198.62                                          ns73.attbi.com.
+    1 203.124.122.18                                           cow.choon.net.
+    1 202.36.219.146                                          p146.adi.co.nz.
+    1 202.181.230.36                                                         
+    1 201.11.252.163                                      mail.raidbr.com.br.
+    1 200.33.146.249                                    nsyuc1.uninet.net.mx.
+    1 200.33.146.241                                    nsyuc2.uninet.net.mx.
+    1 200.28.216.125                                         deimos.terra.cl.
+    1 200.255.40.212                           gerencia2-priv.click21.com.br.
+    1 200.255.255.65                               wks65.rjo.embratel.net.br.
+    1 200.255.220.25                                  ns.brasilcenter.com.br.
+    1 200.254.243.66                                compos-lnx.compos.com.br.
+    1 200.253.251.18                                 soling.fortalnet.com.br.
+    1 200.251.180.10                                        mail.cesa.com.br.
+    1 200.250.82.130                                     k16.kvaerner.com.br.
+    1 200.250.209.34                                     marte.iguacu.com.br.
+    1 200.246.179.82                                     hm04.locaweb.com.br.
+    1 200.245.92.130                                                         
+    1 200.245.91.130                                                         
+    1 200.245.86.160                                                         
+    1 200.238.99.254                                           ns2.pe.gov.br.
+    1 200.238.112.68                                        fisepe.pe.gov.br.
+    1 200.230.209.24                                 dns02.tropiconet.com.br.
+    1 200.223.28.110                                                         
+    1 200.221.28.254                        254.high.28.221.200.in-addr.arpa.
+    1 200.218.224.15                             tucows.cam.directnet.com.br.
+    1 200.218.208.14                               200-218-208-14.bcb.gov.br.
+    1 200.217.141.90                                                         
+    1 200.215.118.12                                        mx.netuno.com.br.
+    1 200.214.210.34                          proxycas.softwaredesign.com.br.
+    1 200.212.156.11                                                         
+    1 200.211.86.135                                                         
+    1 200.211.161.70                         200-211-161-70.papalegua.com.br.
+    1 200.208.84.150                                                         
+    1 200.208.16.246                                 dnssec.bancoreal.com.br.
+    1 200.208.159.10                                                         
+    1 200.208.15.246                                 dnspri.bancoreal.com.br.
+    1 200.207.189.78                        200-207-189-78.dsl.telesp.net.br.
+    1 200.206.72.194                                    mail.laonline.com.br.
+    1 200.206.237.62                        200-206-237-62.dsl.telesp.net.br.
+    1 200.206.234.35                       200-206-234-35.speedyterra.com.br.
+    1 200.205.125.57                                themis.telefonica.net.br.
+    1 200.204.57.180                        200-204-57-180.dsl.telesp.net.br.
+    1 200.203.183.23                                                         
+    1 200.203.173.38                                                         
+    1 200.202.230.83                                                         
+    1 200.198.105.58                                     mail.favorit.com.br.
+    1 200.196.165.18                                                         
+    1 200.196.162.51                                                         
+    1 200.195.149.26                                                         
+    1 200.195.137.81                                     proxy.unifoz.com.br.
+    1 200.192.140.20                                      dolar.vanet.com.br.
+    1 200.190.31.109                                 dns2.globaltools.com.br.
+    1 200.19.254.120                                        biquinho.furg.br.
+    1 200.189.48.252                                      sprints.tks.com.br.
+    1 200.189.245.40                                           gw.gvi.com.br.
+    1 200.189.188.68                        s200-189-188-68.ipb.diveo.net.br.
+    1 200.184.171.67                                                         
+    1 200.180.68.219      200-180-068-219.jvece7002.dsl.brasiltelecom.net.br.
+    1 200.180.53.115                                                         
+    1 200.176.58.115                  cm-virtua-cwb-C8B03A73.brdterra.com.br.
+    1 200.176.131.30                       resolver.poa.terraempresas.com.br.
+    1 200.173.18.193                                                         
+    1 200.170.190.97           200-170-190-097-xf-static.ctbcnetsuper.com.br.
+    1 200.17.161.189                                                         
+    1 200.169.120.67                                   einstein.claro.net.br.
+    1 200.164.232.10                                      ns1.hotlink.com.br.
+    1 200.161.14.171                       200-161-14-171.speedyterra.com.br.
+    1 200.157.33.130                                  gwcapemi.capemi.com.br.
+    1 200.155.28.187                    sp.200_155_28_187.datacenter1.com.br.
+    1 200.155.112.34                                   merlin.carrier.com.br.
+    1 200.155.11.197                        bloco-04.gmail.comdominio.com.br.
+    1 200.150.249.66                                                         
+    1 200.149.232.14                              ns4.bradescoseguros.com.br.
+    1 200.149.212.11                                    ironside.cvrd.com.br.
+    1 200.146.201.12                                        dns2.com4.com.br.
+    1 200.142.87.100                                  saopaulo2.ndata.com.br.
+    1 200.136.177.69                                       canario.univap.br.
+    1 199.89.234.134                                   gateway1.monsanto.com.
+    1 199.67.203.180                                          mail6.ssmb.com.
+    1 199.222.69.102                                            dns2.acm.org.
+    1 195.244.192.66                                        dns0.gibnynex.gi.
+    1 195.23.129.105                                         saira.isp.ip.pt.
+    1 195.177.232.21                                                         
+    1 194.65.100.168                                                         
+    1 194.217.242.85                           anchor-post-35.mail.demon.net.
+    1 194.106.33.235                       i-194-106-33-235.freedom2surf.net.
+    1 194.106.224.14                                             ns2.cso.net.
+    1 193.252.22.156                                     smtp3.wanadoo.co.uk.
+    1 193.189.160.11                                       taurus-1.siol.net.
+    1 193.109.192.65                                       meteora.areti.net.
+    1 192.89.123.230                                             ns3.inet.fi.
+    1 192.43.244.163                                          shear.ucar.edu.
+    1 192.251.125.41                                                         
+    1 164.46.104.129                              alula.fs.firstserver.ne.jp.
+    1 161.58.135.170                                     va1-fv00103.vwh.net.
+    1 151.198.187.50                                      ns.co.bergen.nj.us.
+    1 150.162.166.55                                                         
+    1 143.108.254.62                                         firedsk.ansp.br.
+    1 137.39.110.244                        sosrv12.dfw9.maint.ops.us.uu.net.
+    1 132.236.56.250                                   cudns.cit.cornell.edu.
+    1 131.107.152.82                                                         
+    1 83.172.129.21                                       hosted.by.i-s-e.nl.
+    1 83.148.73.178                                       mail.sofia-lan.net.
+    1 70.84.141.244                      244.70-84-141.reverse.theplanet.com.
+    1 69.60.101.138                                                          
+    1 69.56.178.186                                     snafu.noderunner.net.
+    1 69.50.188.178                                                          
+    1 69.50.176.194                                                          
+    1 69.50.176.154                                                          
+    1 69.30.125.194                                          smtp.dbates.com.
+    1 69.137.189.55                 pcp0011031144pcs.pimaco01.az.comcast.net.
+    1 68.164.127.42                       h-68-164-127-42.hstqtx02.covad.net.
+    1 68.142.251.49                                 lj2439.inktomisearch.com.
+    1 68.142.200.19                                  r3-23.dns.mud.yahoo.com.
+    1 68.142.198.17                                  r1-22.dns.mud.yahoo.com.
+    1 67.43.162.134                                        cb01.pfinders.com.
+    1 67.19.155.226                      226.67-19-155.reverse.theplanet.com.
+    1 66.228.73.197                                            mail.ssci.com.
+    1 66.218.54.165                        adsl-66-218-54-165.dslextreme.com.
+    1 66.196.90.209                                 lj1193.inktomisearch.com.
+    1 66.196.101.97                                 fj5013.inktomisearch.com.
+    1 66.134.142.66                       h-66-134-142-66.snvacaid.covad.net.
+    1 66.119.128.10                                        ns2.connect-a.net.
+    1 66.118.176.50                                      unknown.sagonet.net.
+    1 66.118.176.46                                      unknown.sagonet.net.
+    1 66.118.176.32                                      unknown.sagonet.net.
+    1 66.113.128.95                             nsc00.chi.us.siteprotect.com.
+    1 65.75.185.130                                                          
+    1 65.54.237.136                                    dns-bay-c-06.msft.net.
+    1 65.215.28.254           ip254.v65.workscape.net.28.215.65.in-addr.arpa.
+    1 64.41.179.146                                           ntsvc1.ign.com.
+    1 64.219.39.150                             64-219-39-150.ded.swbell.net.
+    1 64.191.107.70                                  server01.homebrasil.com.
+    1 64.142.77.208                       64-142-77-208.dsl.static.sonic.net.
+    1 63.97.181.184                                                          
+    1 63.75.137.129                                   ckpnt02.intergraph.com.
+    1 63.246.151.26                                     turbo.brservers.info.
+    1 63.206.125.12                                    sf-corp-nat12.pno.net.
+    1 62.26.126.145                                    www1.planinternet.net.
+    1 62.146.106.70                                         appendix.udag.de.
+    1 38.112.21.198                    6042147Canada_Inc.demarc.cogentco.com.
+    1 24.248.81.243                         wsip-24-248-81-243.ph.ph.cox.net.
+    1 217.199.42.67                                           hel.funcom.com.
+    1 217.154.131.9                               lon-gs1dmrelay.mistral.net.
+    1 217.106.230.4                                       europa.ntvplus.com.
+    1 216.73.88.200                                  p1dns1.ddc.dartmail.net.
+    1 216.254.141.2                                            ns1.primus.ca.
+    1 216.240.97.71                                            wendy.dmv.com.
+    1 216.209.84.50                                     fw.exitcertified.com.
+    1 216.17.104.29                                            ns1.65535.net.
+    1 216.104.160.3                                          corp.tierra.net.
+    1 212.54.64.180                                     fe110.worldonline.dk.
+    1 212.23.165.28                                   fjorgunn.fast.jmsp.net.
+    1 209.167.159.8                                           dns3.alias.com.
+    1 207.68.176.76                                                          
+    1 207.68.176.75                                                          
+    1 207.44.136.48                                           ourinternet.us.
+    1 207.207.2.103                                           ns1.tralix.com.
+    1 207.162.57.26                                     hercule.cirano.qc.ca.
+    1 207.16.136.19                                                          
+    1 207.155.252.6                                      hood.concentric.net.
+    1 207.115.20.49                                      flpvm19.prodigy.net.
+    1 206.190.33.42                                 dns101.ops.re2.yahoo.com.
+    1 203.10.110.71                                  thunder.netspace.net.au.
+    1 202.238.82.16                                    nss02.ms.so-net.ne.jp.
+    1 201.8.108.158                       201008108158.user.veloxzone.com.br.
+    1 201.2.244.197                                                          
+    1 201.2.198.114         201-002-198-114.fnsce7005.e.brasiltelecom.net.br.
+    1 201.14.58.131                                                          
+    1 201.10.44.131                                     mail.hostline.com.br.
+    1 200.255.242.4                                    ns2.citta-america.com.
+    1 200.250.108.1                                                          
+    1 200.249.34.60                                                          
+    1 200.246.6.130                                    linux-nat.agis.com.br.
+    1 200.244.102.2                                                          
+    1 200.239.53.35                                    spliff.pangeia.com.br.
+    1 200.233.186.4            200-233-186-004-xf-static.ctbcnetsuper.com.br.
+    1 200.230.100.3                                 sementhal.westnet.com.br.
+    1 200.229.2.177                                     guardic.seven.com.br.
+    1 200.218.170.3                         200-218-170-3.sys.maxiweb.com.br.
+    1 200.214.196.6                                      ns2.colatinense.com.
+    1 200.210.171.2                             transbrasa.transbrasa.com.br.
+    1 200.207.43.49                     200-207-43-49.cindy.inmetrics.com.br.
+    1 200.206.97.18                               200-206-97-18.phael.com.br.
+    1 200.203.43.90         200-203-043-090.paemt7003.e.brasiltelecom.net.br.
+    1 200.20.227.40                                                          
+    1 200.199.96.20                                        ns.neoline.com.br.
+    1 200.199.111.9                       200199111009.user.veloxzone.com.br.
+    1 200.198.176.4                                                          
+    1 200.198.128.3                                     dns2.procergs.com.br.
+    1 200.196.66.29                                      venus.impsat.com.br.
+    1 200.195.48.10                                       volt.brsite.com.br.
+    1 200.195.199.2                                          ns2.onda.com.br.
+    1 200.195.156.3                                                          
+    1 200.194.240.1                                        cwbone.bsi.com.br.
+    1 200.192.81.36                                       ns01.origin.com.br.
+    1 200.192.17.54                                  nsrjo01.99center.com.br.
+    1 200.183.154.2                                                          
+    1 200.181.68.75                                         ns1.ibest.com.br.
+    1 200.180.81.42          200-180-81-42.jvece300.ipd.brasiltelecom.net.br.
+    1 200.170.46.18                                        ns2.vesper.com.br.
+    1 200.170.175.1       brasilis-200-170-175-001-static.ctbctelecom.com.br.
+    1 200.167.73.70                                                          
+    1 200.166.208.1                                                          
+    1 200.166.122.3                                              r0x.rg3.net.
+    1 200.164.221.3                                       pierre.cepr.com.br.
+    1 200.161.147.8                         200-161-147-8.speedyterra.com.br.
+    1 200.157.72.98                                                          
+    1 200.156.20.46                                                          
+    1 200.155.32.27                                  karina.sercomtel.com.br.
+    1 200.153.11.43                200-153-11-43.customer.tdatabrasil.net.br.
+    1 200.152.251.2                                     super.openweb.com.br.
+    1 200.145.216.1                                      ns.acmesecurity.org.
+    1 200.143.76.18                                   simples.italnet.com.br.
+    1 200.142.250.7                                pkdroid-master.ns1.com.br.
+    1 200.140.240.3                                           ns.miti.com.br.
+    1 200.139.105.4                                  voxline4.spo.gvt.net.br.
+    1 200.103.96.98                                                          
+    1 200.101.240.6                           6.0-7.240.101.200.in-addr.arpa.
+    1 198.133.37.11                                           ns.softarc.com.
+    1 195.49.141.23                                                          
+    1 195.47.247.22                                            mx1.b-one.net.
+    1 195.34.133.10                                            ns1.chello.at.
+    1 195.175.37.70                                                          
+    1 195.162.196.3                                   be-bru-dns01.chello.be.
+    1 195.122.141.1                                     nyarlathotep2.hsd.de.
+    1 195.120.186.2                                           dns2.coster.it.
+    1 195.110.128.1                                           ammi.mclink.it.
+    1 194.97.55.147                                           mx4.freenet.de.
+    1 194.139.33.94                           dhuumsmtpgw6.dtm.ops.eu.uu.net.
+    1 194.109.22.38                                    resolver2-c.xs4all.nl.
+    1 194.109.22.34                                    resolver2-a.xs4all.nl.
+    1 193.70.192.25                                          cns-a.libero.it.
+    1 193.190.198.2                                        vivaldi.belnet.be.
+    1 192.89.123.25                                             smtp.tele.fi.
+    1 192.134.4.160                                              maya.nic.fr.
+    1 167.206.3.206                                 dhcp42.srv.hcvlny.cv.net.
+    1 167.206.3.157                                 dhcp76.srv.hcvlny.cv.net.
+    1 164.77.249.18                                                          
+    1 160.33.16.201                                     host-16-201.spde.net.
+    1 150.162.0.102                                                          
+    1 150.161.2.200                                       server.cin.ufpe.br.
+    1 146.235.97.28                           146-235-97-28-jcp.jcpenney.com.
+    1 12.96.160.108                                      ns2-e.theplanet.com.
+    1 83.66.17.199                                                           
+    1 83.151.49.23                                    dnscache1.kaercher.com.
+    1 82.161.17.96                                             muze.demon.nl.
+    1 82.135.33.86                   host-82-135-33-86.customer.m-online.net.
+    1 81.29.234.97                                                           
+    1 81.228.9.124                             resolver1-sn3.vrr.skanova.net.
+    1 80.247.64.80                                          dns1.levelip.com.
+    1 80.190.192.5                                           carla.fliks.net.
+    1 70.84.55.226                        226.70-84-55.reverse.theplanet.com.
+    1 69.31.80.146                            colo-69-31-80-146.pilosoft.com.
+    1 69.10.135.19                                    h69-10-135-19.n-01.net.
+    1 69.0.231.185                                            ns.pwtorch.com.
+    1 68.87.66.199                         denns03.cmc.co.denver.comcast.net.
+    1 68.251.2.107                adsl-68-251-2-107.dsl.ipltin.ameritech.net.
+    1 66.91.137.14                         rrcs-66-91-137-14.west.biz.rr.com.
+    1 66.90.64.122                                       out20.grupos.com.br.
+    1 66.79.166.90                                        brodels.gngsta.com.
+    1 66.79.166.80                                                           
+    1 66.218.71.59                                       dns12.scd.yahoo.com.
+    1 66.218.71.56                                        dns9.scd.yahoo.com.
+    1 66.218.71.50                                        dns3.scd.yahoo.com.
+    1 66.215.64.14                                   rs2.charterpipeline.net.
+    1 66.205.24.25                                       bounce.infochan.com.
+    1 66.181.64.18                              backup1.mx.cle.expedient.net.
+    1 66.179.149.2                                            ion.azlink.com.
+    1 66.134.78.10                         h-66-134-78-10.snvacaid.covad.net.
+    1 65.169.213.3                                       dns1.fibernetcc.com.
+    1 64.76.195.34                                                           
+    1 64.62.153.50                                        mail2.pfinders.com.
+    1 64.60.16.133                         64-60-16-133.cust.telepacific.net.
+    1 64.239.166.2                      broadband-64-239-166-2.speedband.com.
+    1 64.238.96.10                                           atl.cbeyond.com.
+    1 64.226.28.68                                                           
+    1 63.251.4.160                               ss001.wh01.sea1.infopop.net.
+    1 63.123.79.31                                      ns1.web-1hosting.net.
+    1 62.81.16.131                               131-16-81-62.libre.auna.net.
+    1 62.220.132.1                                          asgard.spale.com.
+    1 62.2.237.100                                       ns1.webspace4you.ch.
+    1 24.200.241.2                                        dn009.videotron.ca.
+    1 217.77.224.1                                   pendragon.carrefour.com.
+    1 217.20.115.1                                             ns9.dnspro.de.
+    1 216.65.1.129                                    dns1.supremecenter.com.
+    1 216.41.74.83                                      216-41-74-83.gis.net.
+    1 216.230.64.5                                     loyal.cypresscomm.com.
+    1 216.21.64.17                                           ns2.nettogo.net.
+    1 216.180.99.9                                       b5.ironicdesign.com.
+    1 213.56.31.20                                      smtp4.clb.oleane.net.
+    1 212.53.64.75                                resolver1.netbenefit.co.uk.
+    1 212.43.194.3                                     lorraine.fr.clara.net.
+    1 209.244.7.55                               ics3.LosAngeles1.Level3.net.
+    1 209.133.53.2                                         dns1.transbay.net.
+    1 207.96.50.30                                                           
+    1 207.243.24.5                                      fw3025.ctca-corp.com.
+    1 206.80.192.1                                 phx-dns-01.inet.qwest.net.
+    1 206.13.31.19                             dnsnode9.scrmca.sbcglobal.net.
+    1 204.10.132.7                                         ynrfw28501.yr.com.
+    1 203.82.162.7                                        sql.veritel.com.au.
+    1 202.9.145.94                                              unix.eth.net.
+    1 201.9.238.46                        201009238046.user.veloxzone.com.br.
+    1 201.8.154.53                        201008154053.user.veloxzone.com.br.
+    1 201.6.101.84                                    c9066554.virtua.com.br.
+    1 201.6.101.83                                    c9066553.virtua.com.br.
+    1 201.2.191.70        201-002-191-070.rslce204.dial.brasiltelecom.net.br.
+    1 201.11.28.11          201-011-028-011.cscgo7006.t.brasiltelecom.net.br.
+    1 201.10.48.62                                                           
+    1 200.242.49.2                   POPW-2-ATM-ROUTB.mns.wavetelecom.com.br.
+    1 200.223.0.21                                  sauipe.telemar-ba.net.br.
+    1 200.222.0.35                                        ns4.telemar.net.br.
+    1 200.215.91.1                                     server.nextone.com.br.
+    1 200.210.7.50                                     widc03.wideway.com.br.
+    1 200.205.25.2                                                           
+    1 200.20.180.5                                                           
+    1 200.199.14.5                          5.14.199.200.docasdoporto.com.br.
+    1 200.196.28.6                                         mx1.matrix.com.br.
+    1 200.193.37.3                                            superip.com.br.
+    1 200.192.52.3                                 svc02ux.computeasy.com.br.
+    1 200.189.80.2                                 sabrina.canbrasnet.com.br.
+    1 200.185.44.4                                      macewindu.ns1.com.br.
+    1 200.162.56.7                                                           
+    1 200.153.0.68                           te-resolver1.tdatabrasil.net.br.
+    1 200.142.77.7                                      slbnat3.br.inter.net.
+    1 200.135.14.1                                    ns.pop-udesc.rct-sc.br.
+    1 199.166.27.6                                               ns1.vrx.net.
+    1 198.5.241.59                                     ns6.ash.ops.us.uu.net.
+    1 198.151.36.1                                       ns2.dtc.cendant.com.
+    1 198.151.35.5                                       ns1.dtc.cendant.com.
+    1 196.3.50.254                                          gw.bas.roche.com.
+    1 195.92.109.2                                                           
+    1 195.112.4.33                                      quimby.nildram.co.uk.
+    1 194.8.194.60                                        res1.netcologne.de.
+    1 194.73.73.39                                                           
+    1 194.73.73.38                                                           
+    1 194.176.77.6                                    server3.clicknames.net.
+    1 193.49.159.2                                            ns1.renater.fr.
+    1 193.41.214.1                                          dns1.quicknet.se.
+    1 192.245.12.7                                           Cello.Opus1.COM.
+    1 161.7.150.20                                                           
+    1 155.72.100.4                                 4.host.starwoodhotels.com.
+    1 148.59.19.67                                          radius1.msen.com.
+    1 147.70.29.44                                               ns1.mdc.edu.
+    1 146.235.84.7                                       archer.jcpenney.com.
+    1 129.71.173.9                                              ns.wvdrs.org.
+    1 129.41.50.19                                               ns0.ivr.org.
+    1 129.247.96.1                                         dnsserv.kp.dlr.de.
+    1 128.39.176.3                                               geit.umb.no.
+    1 12.151.151.3                                            gw.monitor.com.
+    1 82.199.2.11                                           carrier.rbnet.no.
+    1 80.67.18.29                              spamfilter03.domainfactory.de.
+    1 72.10.108.2                                                            
+    1 69.61.23.75                                                            
+    1 67.97.234.4                                                     reached
+    1 67.15.80.70                                   iracema.dnscenter.com.br.
+    1 67.15.18.18                                        h20001.racknine.com.
+    1 66.79.160.5                                                            
+    1 66.114.97.8                                          ns2.navitaire.com.
+    1 66.111.4.30                              frontend1.messagingengine.com.
+    1 65.254.15.8                                     ns2.exobitnetworks.com.
+    1 65.19.175.2                                             ns1.fmt.he.net.
+    1 64.49.16.62                           primarydns.dnc16.watervalley.net.
+    1 64.12.139.4                                   mtc-mblk004.edns.aol.com.
+    1 62.80.67.93                                                            
+    1 62.45.45.45                                           ns2.kabelfoon.nl.
+    1 62.26.26.61                                           idgie.tiscali.de.
+    1 62.121.20.2                                                            
+    1 32.97.166.4                                                            
+    1 24.205.1.14                                    rs1.charterpipeline.net.
+    1 216.248.4.2                                                            
+    1 213.158.0.3                                      post.telegraph.spb.ru.
+    1 212.27.32.6                                      dnscache-8.proxad.net.
+    1 212.217.0.1                                            dns1.iam.net.ma.
+    1 200.43.31.5                                         sn2.telecom.net.ar.
+    1 200.30.0.97                                                            
+    1 200.255.5.5                                      gaucha.resenet.com.br.
+    1 200.250.8.4                                        portalw.wnet.com.br.
+    1 200.195.3.1                                     renoirpc1.sdnet.com.br.
+    1 200.169.8.7                                    ametista.century.net.br.
+    1 199.86.30.5                                          host30-5.btbx.net.
+    1 199.0.233.3                                   ibogw-fw2.sprintlink.net.
+    1 193.81.83.2                                         ns2.Austria.EU.net.
+    1 192.240.0.1                                       fujitsu1.fujitsu.com.
+    1 168.61.5.60                                         Cub.Mail-Abuse.ORG.
+    1 164.62.7.21                                           doberman.ftc.gov.
+    1 161.79.72.1                                              adri.cepel.br.
+    1 161.58.8.42                                        va1-fv00245.vwh.net.
+    1 150.161.6.1                                                            
+    1 150.161.5.2                                                            
+    1 132.1.207.4                                                            
+    1 12.23.54.13                                                            
+    1 12.104.81.3                                                            
+    1 81.31.41.2                                                             
+    1 68.6.16.23                                    fed1dnsi03.rd.sd.cox.net.
+    1 67.19.0.11                                      ns3-a.servermatrix.com.
+    1 65.254.0.2                                      ns1.exobitnetworks.com.
+    1 65.174.0.3                                            ns1.tumwater.net.
+    1 64.4.25.26                                  scipsdnsa02.bay.us.msn.net.
+    1 64.4.25.20                                         dns3.bay.us.msn.net.
+    1 64.141.6.1                                        mailauth.alberni.net.
+    1 62.81.0.35                                   35-0-81-62.libre.auna.net.
+    1 194.87.0.9                                                 ns.demos.ru.
+    1 170.66.3.3                                     dns1.bancobrasil.com.br.
